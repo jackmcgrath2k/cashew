@@ -1,5 +1,5 @@
 
-# Cashew
+# Cashew V1
 
 ### A budgeting app made in React using supabase and TailwindCSS with realtime subscription. 
 
