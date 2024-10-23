@@ -1,7 +1,7 @@
 
 # Cashew
 
-### A budgeting app made in React using supabase and TailwindCSS. 
+### A budgeting app made in React using supabase and TailwindCSS with realtime subscription. 
 
 ## Features
 1. Authentication & User Management
