@@ -42,6 +42,7 @@
 - Notifications
 - Statistics & Analytics
 - Group budgeting
+- Filtering system
 
 
 
