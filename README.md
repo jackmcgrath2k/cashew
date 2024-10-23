@@ -43,3 +43,17 @@
 - Statistics & Analytics
 - Group budgeting
 
+
+
+## FAQ
+
+#### What is Cashew?
+
+A budgeting app. Currently functioning only for personal budgets, in the development process of allowing for group budgets, incorporating a friendship system.
+
+#### Why supabase?
+
+I decided to use supabase over Firebase as a personal challenge to learn an alternate BaaS, having previous experience with Firebase in college. Supabase also was chosen to fit the scale of this personal project, it was very easy to use.
+
+
+
