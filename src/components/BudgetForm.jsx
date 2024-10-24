@@ -240,7 +240,7 @@ const BudgetForm = ({ budgetId, closeModal, budgetData }) => {
               type="button"
               className={`text-white font-medium rounded-full text-sm px-3 py-1 text-center me-2 mb-2 ${isGroupSelected ? 'bg-blue-500 duration-500 ' : 'bg-gray-300 text-gray-500 '}`}
               onClick={handleGroupClick}
-              disabled
+              
             >
               Group
             </button>
@@ -256,12 +256,9 @@ const BudgetForm = ({ budgetId, closeModal, budgetData }) => {
                     <button type="button" className="text-white bg-blue-500  focus:outline-none  font-medium rounded-full text-sm px-3 py-1 text-center me-2 mb-2">Add +</button>
                   </div>
                   <ul className="list-none p-0 m-0">
+                    
                     <li className="bg-gray-100 border border-gray-300 rounded-lg p-3 mb-2 shadow-sm hover:shadow-md transition-shadow duration-200 flex justify-between items-center">
-                      <span>Jack @bogchamp</span>
-                      <PersonRemoveIcon className='text-gray-400 cursor-pointer hover:text-red-400 transition-colors duration-200' />
-                    </li>
-                    <li className="bg-gray-100 border border-gray-300 rounded-lg p-3 mb-2 shadow-sm hover:shadow-md transition-shadow duration-200 flex justify-between items-center">
-                      <span>Tomás @pisschamp</span>
+                      <span>Tomás @tomtheman</span>
                       <PersonRemoveIcon className='text-gray-400 cursor-pointer hover:text-red-400 transition-colors duration-200' />
                     </li>
                   </ul>
